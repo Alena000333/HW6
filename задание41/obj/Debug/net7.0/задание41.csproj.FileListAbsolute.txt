@@ -1,0 +1,15 @@
+C:\Users\алена\OneDrive\Рабочий стол\HW\HW6\задание41\bin\Debug\net7.0\задание41.exe
+C:\Users\алена\OneDrive\Рабочий стол\HW\HW6\задание41\bin\Debug\net7.0\задание41.deps.json
+C:\Users\алена\OneDrive\Рабочий стол\HW\HW6\задание41\bin\Debug\net7.0\задание41.runtimeconfig.json
+C:\Users\алена\OneDrive\Рабочий стол\HW\HW6\задание41\bin\Debug\net7.0\задание41.dll
+C:\Users\алена\OneDrive\Рабочий стол\HW\HW6\задание41\bin\Debug\net7.0\задание41.pdb
+C:\Users\алена\OneDrive\Рабочий стол\HW\HW6\задание41\obj\Debug\net7.0\задание41.csproj.AssemblyReference.cache
+C:\Users\алена\OneDrive\Рабочий стол\HW\HW6\задание41\obj\Debug\net7.0\задание41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\алена\OneDrive\Рабочий стол\HW\HW6\задание41\obj\Debug\net7.0\задание41.AssemblyInfoInputs.cache
+C:\Users\алена\OneDrive\Рабочий стол\HW\HW6\задание41\obj\Debug\net7.0\задание41.AssemblyInfo.cs
+C:\Users\алена\OneDrive\Рабочий стол\HW\HW6\задание41\obj\Debug\net7.0\задание41.csproj.CoreCompileInputs.cache
+C:\Users\алена\OneDrive\Рабочий стол\HW\HW6\задание41\obj\Debug\net7.0\задание41.dll
+C:\Users\алена\OneDrive\Рабочий стол\HW\HW6\задание41\obj\Debug\net7.0\refint\задание41.dll
+C:\Users\алена\OneDrive\Рабочий стол\HW\HW6\задание41\obj\Debug\net7.0\задание41.pdb
+C:\Users\алена\OneDrive\Рабочий стол\HW\HW6\задание41\obj\Debug\net7.0\задание41.genruntimeconfig.cache
+C:\Users\алена\OneDrive\Рабочий стол\HW\HW6\задание41\obj\Debug\net7.0\ref\задание41.dll
